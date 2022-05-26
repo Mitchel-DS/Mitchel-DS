@@ -1,12 +1,12 @@
-# :sparkles: About Me
 ![Obi_Hello_there](/assets/images/hello_there.gif)
 
+# :sparkles: About Me
 Welcome to my GitHub. 
 My name is Mitchel. Currently a student following the course: Communication and Multimedia design (CMD) at the University of Applied Sciences / Hogeschool van Amsterdam. 
 
 
 ## :globe_with_meridians: Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md.yami) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white height=25)](https://instagram.com/md.yami) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mitchelstaal) 
 
 ## :computer: Tech Stack
