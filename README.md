@@ -4,8 +4,6 @@
 Welcome to my GitHub. 
 My name is Mitchel. Currently a student following the course: Communication and Multimedia design (CMD) at the University of Applied Sciences / Hogeschool van Amsterdam. 
 
-🌐 [Check out my website](www.mitchelstaal.nl)
-
 ## :globe_with_meridians: Socials
 <p>
 <a href="https://www.linkedin.com/in/mitchelstaal"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
