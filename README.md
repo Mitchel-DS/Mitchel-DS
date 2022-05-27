@@ -1,6 +1,12 @@
 ![Obi_Hello_there](/assets/images/hello_there.gif)
 
-# :sparkles: </About Me>
+# Hello there :wave:
+<p>
+<a href="https://www.linkedin.com/in/mitchelstaal"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://www.instagram.com/md.yami">   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+</p>
+
+
 Welcome to my GitHub. 
 My name is Mitchel. Currently a student following the course: Communication and Multimedia design (CMD) at the University of Applied Sciences / Hogeschool van Amsterdam. 
 
